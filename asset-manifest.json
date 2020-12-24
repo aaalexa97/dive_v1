@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dive_v1/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/dive_v1/static/js/main.0c376b5e.chunk.js",
+    "main.js.map": "/dive_v1/static/js/main.0c376b5e.chunk.js.map",
+    "runtime-main.js": "/dive_v1/static/js/runtime-main.29650d6e.js",
+    "runtime-main.js.map": "/dive_v1/static/js/runtime-main.29650d6e.js.map",
+    "static/js/2.8d599e5d.chunk.js": "/dive_v1/static/js/2.8d599e5d.chunk.js",
+    "static/js/2.8d599e5d.chunk.js.map": "/dive_v1/static/js/2.8d599e5d.chunk.js.map",
+    "static/js/3.d6770f74.chunk.js": "/dive_v1/static/js/3.d6770f74.chunk.js",
+    "static/js/3.d6770f74.chunk.js.map": "/dive_v1/static/js/3.d6770f74.chunk.js.map",
+    "index.html": "/dive_v1/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/dive_v1/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8d599e5d.chunk.js.LICENSE.txt": "/dive_v1/static/js/2.8d599e5d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dive_v1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29650d6e.js",
+    "static/js/2.8d599e5d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0c376b5e.chunk.js"
+  ]
+}
